@@ -4,7 +4,7 @@
 #
 Name     : pavucontrol
 Version  : 3.0
-Release  : 2
+Release  : 3
 URL      : http://freedesktop.org/software/pulseaudio/pavucontrol/pavucontrol-3.0.tar.xz
 Source0  : http://freedesktop.org/software/pulseaudio/pavucontrol/pavucontrol-3.0.tar.xz
 Summary  : No detailed summary available
