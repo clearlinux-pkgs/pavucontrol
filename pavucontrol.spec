@@ -4,7 +4,7 @@
 #
 Name     : pavucontrol
 Version  : 4.0
-Release  : 8
+Release  : 9
 URL      : http://freedesktop.org/software/pulseaudio/pavucontrol/pavucontrol-4.0.tar.xz
 Source0  : http://freedesktop.org/software/pulseaudio/pavucontrol/pavucontrol-4.0.tar.xz
 Summary  : PulseAudio Volume Control
