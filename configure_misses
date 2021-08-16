@@ -1,1 +1,2 @@
 Configure miss: lynx
+Configure miss: pa_context_send_message_to_object in -lpulse
